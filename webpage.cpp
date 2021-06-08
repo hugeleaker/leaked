@@ -8,3 +8,4 @@ account(user="admin", password="test123");
 account(user="admin", password="test123").connect_server();
 pwd = "erg!e13@ee.f";
 api_key:0xsdpofjziohozh
+GMAIL_PASSWORD=_R[1997]M_
